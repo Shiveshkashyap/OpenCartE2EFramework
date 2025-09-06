@@ -1,0 +1,38 @@
+15:41:42.551 [main] ERROR OpenCartE2EFramework.TestCases.TC002_LoginPageTest - Test Failed....
+15:45:31.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHIVESH\IdeaProjects\OpenCartE2EFramework\master.xml
+
+15:45:48.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHIVESH\IdeaProjects\OpenCartE2EFramework\master.xml
+
+15:46:03.608 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHIVESH\IdeaProjects\OpenCartE2EFramework\master.xml
+
+15:46:06.487 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - *****************Starting Login Test***********************
+15:46:08.326 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - ************Finished TC002_LoginPageTest********************
+16:13:00.842 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHIVESH\IdeaProjects\OpenCartE2EFramework\master.xml
+
+16:13:04.196 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - *****************Starting Login Test***********************
+16:13:06.542 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - ************Finished TC002_LoginPageTest********************
+22:52:32.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHIVESH\IdeaProjects\OpenCartE2EFramework\master.xml
+
+22:52:54.882 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - ********Starting TC001_AccountRegistrationTest**********
+22:52:55.217 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - Clicked on My Account Link.....
+22:52:56.339 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - Clicked on My Register Link.....
+22:52:56.761 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - Name Entered.....
+22:53:00.754 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - All details entered.....
+22:53:07.049 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - All good....
+22:53:07.050 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - ********Finished TC001_AccountRegistrationTest**********
+22:53:47.031 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - *****************Starting Login Test***********************
+22:53:56.593 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - ************Finished TC002_LoginPageTest********************
+22:55:55.476 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - ********Starting TC001_AccountRegistrationTest**********
+22:55:55.782 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - Clicked on My Account Link.....
+22:56:00.411 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - Clicked on My Register Link.....
+22:56:00.813 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - Name Entered.....
+22:56:04.738 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - All details entered.....
+22:56:09.690 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - All good....
+22:56:09.690 [main] INFO  OpenCartE2EFramework.TestCases.TC001_AccountRegistrationTest - ********Finished TC001_AccountRegistrationTest**********
+22:56:13.270 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - *****************Starting Login Test***********************
+22:56:16.489 [main] INFO  OpenCartE2EFramework.TestCases.TC002_LoginPageTest - ************Finished TC002_LoginPageTest********************
