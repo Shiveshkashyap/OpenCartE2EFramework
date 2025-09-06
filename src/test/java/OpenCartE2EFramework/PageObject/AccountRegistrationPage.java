@@ -48,6 +48,7 @@ public class AccountRegistrationPage extends BasePage{
         txt_LastName.sendKeys(lastName);
     }
     public void EnterEmail(String email){
+//        You can use the below method as well
 //        String randomCharacter = RandomStringUtils.randomAlphabetic(5);
 //        System.out.println(randomCharacter);
 //        String email = randomString()+"@gmail.com";
