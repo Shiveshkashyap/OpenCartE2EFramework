@@ -1,0 +1,29 @@
+# Build steps
+stages :
+    - build
+    - test
+    - push
+    - deploy
+
+
+build_job:
+    stage: build
+    script:
+       - echo "The build is done locally"
+
+test_job:
+    stage: test
+    script :  
+        - echo "Test stages is running"
+
+# push_job:
+#     stage: push
+#     script :
+#         - echo "this"
+#         - echo "Push stage is running"
+
+deploy_job:
+    stage : deploy
+    script :
+        - echo "this"
+        - echo  "delpoy stages is running"
